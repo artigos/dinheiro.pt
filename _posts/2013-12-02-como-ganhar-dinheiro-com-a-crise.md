@@ -4,9 +4,9 @@ title: Como ganhar dinheiro com a crise?
 published: true
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##A crise económica que se está a viver é uma espada de dois gumes, temos por um lado a vontade de conter os investimentos de forma a dispormos de capital para uma emergência e por outro lado vemos os mercados sempre com novos baixos.
+## A crise económica que se está a viver é uma espada de dois gumes, temos por um lado a vontade de conter os investimentos de forma a dispormos de capital para uma emergência e por outro lado vemos os mercados sempre com novos baixos.
 
 Nas aulas de economia aprende-se que este momentos de crise são cíclicos e que a sua ocorrência é inevitável, e o que há a fazer é tirar o maior proveito deles. Quer acredite, quer não… nestes momentos de crise há muita gente a fazer fortunas.
 

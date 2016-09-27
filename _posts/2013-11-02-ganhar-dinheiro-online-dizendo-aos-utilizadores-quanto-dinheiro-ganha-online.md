@@ -3,7 +3,7 @@ layout: default
 title: Ganhar dinheiro online dizendo aos utilizadores quanto dinheiro ganha online
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 O título deste post pode parecer algo irónico, mas certamente não o é. Existem alguns autores de blogs que ganham dinheiro dizendo aos utilizadores quanto dinheiro ganham online. Isto é um pouco como a história do ovo e da galinha e qual nasceu primeiro, será que eles começaram a ganhar dinheiro antes de dizerem às pessoas quanto ganham, ou foi dizendo às pessoas como ganhar dinheiro que começaram a ganhar dinheiro?
 

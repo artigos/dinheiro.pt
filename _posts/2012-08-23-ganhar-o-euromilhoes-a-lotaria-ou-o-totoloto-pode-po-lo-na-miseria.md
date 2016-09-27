@@ -3,9 +3,9 @@ layout: default
 title: Ganhar a lotaria pode pô-lo na miséria
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##Para muita gente, ganhar o euromilhões é sinal de felicidade para o resto da vida. Mas para alguns vencedores, a realidade é mais um pesadelo.
+## Para muita gente, ganhar o euromilhões é sinal de felicidade para o resto da vida. Mas para alguns vencedores, a realidade é mais um pesadelo.
 
 "Ganhar a lotaria nem sempre é o que se espera", diz Evelyn Adams, que ganhou a lotaria de Nova Jérsia não uma, mas por duas vezes (1985, 1986), tendo recebido um total de 5.4 milhões de dólares. Hoje em dia já não sobrou nada e vive numa caravana.
 
@@ -13,7 +13,7 @@ title: Ganhar a lotaria pode pô-lo na miséria
 
 "Toda a gente queria o meu dinheiro. Nunca soube dizer "Não!", mas se pudesse voltar atrás no tempo, tinha sido muito mais esperto", diz Adams, que também perdeu dinheiro no jogo em Atlantic City.
 
-##A viver da segurança social
+## A viver da segurança social
 
 William "Bud" Post ganhou 16.2 milhões de dólares na lotaria da Pennsylvaniaem 1988 mas agora viva da Segurança Social.
 
@@ -27,7 +27,7 @@ Post admitiu que tinha sido irresponsável e ingénuo, tentando agradar a toda a
 
 Agora vive modestamente com $450 por mês. Diz ainda "Sinto-me cansado, já estou com mais de 65 anos e tive à pouco tempo uma operação ao coração. As lotarias agora não querem dizer nada para mim".
 
-##Endividada até ao pescoço
+## Endividada até ao pescoço
 
 Suzanne Mullins ganhou 4.2 milhões na lotaria da Virginia em 1993. Agora está profundamente endividade a uma companhia que lhe emprestou dinheiro servindo-se dos ganhos da lotaria como segurança.
 
@@ -35,7 +35,7 @@ Ela pediu emprestados $197,746.15, os quais concordou em pagar durante o ano de 
 
 Ela culpou a falta de saúde de um sobrinho que não tinha seguro de saúde e que precisou de 1 milhão de dólares em despesas médicas.
 
-##Voltando ao simples
+## Voltando ao simples
 
 Ken Proxmire era um maquinista até que ganhou 1 milhão na lotaria do Michigan. Mudou-se para a Califórnia e montou um negócio de carros com os irmãos. Em menos de 5 anos, declarou falência.
 
@@ -49,7 +49,7 @@ Um família do sul dos Estados Unidos ganhou 4.2 milhões no início dos anos 90
 
 Eleven years later, the couple is divorcing, the house is sold and they have to split what is left of the lottery proceeds. The wife got a very small house. The husband has moved in with the kids. Even the life insurance they bought ended up getting cashed in.
 
-##A sorte é volátil
+## A sorte é volátil
 
 Estas histórias não são incomuns, dizem os entendidos.
 

@@ -4,7 +4,7 @@ title: Ferramentas para ganhar dinheiro investindo na bolsa
 published: false
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 Existem imensas ferramentas líderes do mercado cambial, estas ferramentas estão direcionadas tanto aos principiantes como aos profissionais e oferecem material educativo superior à média. Muitas destas ferramentas dispõem também da possibilidade de abrir uma conta demo gratuitamente.
 

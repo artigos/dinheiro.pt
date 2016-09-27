@@ -3,7 +3,7 @@ layout: default
 title: Ganhar dinheiro com o Twitter
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 O Twitter é um website de tipo Micro-Blogging e Rede Social que nos permite chegar a uma audiência específica em forma de mensagem que podem ter até 140 caracteres. Tem havido um grande interesse da mídia neste novo tipo de comunicação que começou quando o Twitter foi lançado em 2006 por Jack Dorsey.
 

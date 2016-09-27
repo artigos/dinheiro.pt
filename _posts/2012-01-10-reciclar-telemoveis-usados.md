@@ -3,9 +3,9 @@ layout: default
 title: Reciclar telemóveis usados
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##Portugal tem das maiores taxas de penetração de telemóvel, e possui neste momento mais telemóveis que pessoas.
+## Portugal tem das maiores taxas de penetração de telemóvel, e possui neste momento mais telemóveis que pessoas.
 
 Visto isto, uma boa maneira de ganhar dinheiro é trocando o seu telemóvel antigo por dinheiro.
 

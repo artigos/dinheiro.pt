@@ -3,9 +3,9 @@ layout: default
 title: Controle e organize as suas despesas
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##As despesas devem ser controladas com a maior minúcia possível.
+## As despesas devem ser controladas com a maior minúcia possível.
 
 A melhor maneira de o fazer é mesmo numa folha de Excel, pode dar algum trabalho na fase inicial mas é a única maneira de controlar com precisão as suas despesas.
 

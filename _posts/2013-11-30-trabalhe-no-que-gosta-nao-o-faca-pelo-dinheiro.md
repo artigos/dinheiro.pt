@@ -3,7 +3,7 @@ layout: default
 title: Trabalhe no que gosta, não pelo dinheiro
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 Estava a ler o diário económico e [esta notícia](http://economico.sapo.pt/noticias/quem-trabalha-so-pelo-dinheiro-deve-ter-uma-vida-triste_120341.html) chamou-me a atenção. É basicamente a história de Jack Soifer que nasceu no Brasil mas mudou-se para o Algarve já há alguns anos. Além de referir que "não devemos investir tudo no mesmo cesto", refere também a coisa mais importante que é:
 

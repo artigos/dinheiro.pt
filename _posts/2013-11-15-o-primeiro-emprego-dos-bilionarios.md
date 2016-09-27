@@ -3,7 +3,7 @@ layout: default
 title: O primeiro emprego dos bilionários
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 A forbes publicou um [artigo](http://www.forbes.com/2010/08/02/steve-jobs-oprah-schwab-pickens-business-billionaires-first-jobs.html?boxes=HomepageSpecialStorySection) bastante interessante onde refere os primeiros empregos dos bilionários americanos.
 

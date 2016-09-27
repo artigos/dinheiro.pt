@@ -3,7 +3,7 @@ layout: default
 title: 10 dicas para poupar dinheiro em viagens
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 Aqui vão 10 dicas de como poupar dinheiro quando viaja:
 

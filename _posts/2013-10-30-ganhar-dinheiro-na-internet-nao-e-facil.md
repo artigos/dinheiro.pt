@@ -4,9 +4,9 @@ title: Ganhar dinheiro na internet não é fácil
 published: true
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##Ganhar dinheiro na internet é possível mas requer tempo e dinheiro.
+## Ganhar dinheiro na internet é possível mas requer tempo e dinheiro.
 
 Espero com este post não desmoralizar ninguém que esteja a pensar investir tempo e dinheiro na internet para daí tirar algum rendimento extra, mas a verdade é para ser dita.
 

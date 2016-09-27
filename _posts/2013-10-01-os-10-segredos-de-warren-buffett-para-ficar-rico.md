@@ -3,7 +3,7 @@ layout: default
 title: 10 segredos de Warren Buffett para ficar rico
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 Com uma fortuna avaliada em mais de 53.5 bilhões de dólares, Warren Buffett é um dos homens mais ricos do mundo. Em 1962, quando começou a comprar acções na Berkshire Hathaway, uma acção custava 7.50 dólares. Hoje, Buffett com 83 anos de idade, é o CEO da Berkshire Hathaway e uma acção classe A da empresa vale perto de 119.000 dólares.
 

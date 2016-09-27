@@ -3,11 +3,11 @@ layout: default
 title: Como poupar dinheiro? Algumas dicas
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 A BBC criou uma lista de dicas que lhe poderão ajudar a poupar centenas, se não mesmo milhares de euros por ano.
 
-##Poupar dinheiro em comida
+## Poupar dinheiro em comida
 
 * Compre produtos frescos do mercado e não de supermercados, eles são quase sempre mais baratos.
 * Se compra no supermercado, faça uma lista e não fuja da mesma, a não ser que encontre comida bastante mais barata.
@@ -15,7 +15,7 @@ A BBC criou uma lista de dicas que lhe poderão ajudar a poupar centenas, se nã
 * Faça as suas próprias sandwiches. A indústria das sandwiches pré-confeccionadas equivale a €3.3 biliões por ano! Se fizer as suas próprias poderá mesmo utilizar os restos da refeição principal.
 
 
-##Poupar dinheiro em  casa
+## Poupar dinheiro em  casa
 
 * Desça a temperatura do aquecimento 1ºC, isso irá poupar-lhe 10% da conta ao fim do mês. Também irá reduzir as emissões de dióxido de carbono em 240Kg por ano.
 * Veja se os serviços de gás e electricidade que está a usar são os mais baratos do mercado.
@@ -27,7 +27,7 @@ A BBC criou uma lista de dicas que lhe poderão ajudar a poupar centenas, se nã
 * Não tome banhos de imersão, um duche usa muito menos água.
 * Seque a roupa no exterior, não use a máquina de secar.
 
-##Poupar dinheiro quando sai
+## Poupar dinheiro quando sai
 
 * Em vez de ir de carro, opte por se deslocar a pé.
 * Compre localmente em vez de ir a grandes superfícies, os produtos talvez sejam mais baratos, mas quando adiciona o preço da gasolina não irá compensar. Irá também ajudar as lojas locais.
@@ -36,7 +36,7 @@ A BBC criou uma lista de dicas que lhe poderão ajudar a poupar centenas, se nã
 * Divirta-se em casa de amigos, pode ter uma noite bastante divertida em casa de amigos levando apenas uma garrafa de vinho. Irá poupar muito mais do que se fosse a um restaurante.
 * Procure na internet pelos melhores descontos, é muito mais fácil e acessível do que ir de loja em loja e comparar preços.
 
-##Como poupar financeiramente
+## Como poupar financeiramente
 
 * Consolide qualquer dívida que tenha. Não pague os incrivelmente altos juros dos cartões de crédito. Fale com o seu banco para conseguir um empréstimo para os pagar, ou mude para um cartão de crédito que lhe ofereça uma taxa de juro mais baixa.
 * Pague as suas contas por débito directo. Isto significa que irá sempre pagar a tempo (tendo dinheiro na conta, claro) e habituar-se a não contar com esse dinheiro. Às vezes também encontra descontos se usar esta alternativa.

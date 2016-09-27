@@ -3,9 +3,9 @@ layout: default
 title: Probabilidade de ganhar o Euromilhões
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##Todos sabemos que os jogos de sorte e azar, como é exemplo o euromilhões, são mais uma forma de gastar dinheiro do que de o ganhar, mas qual é exactamente a probabilidade de ganhar o euromilhões?
+## Todos sabemos que os jogos de sorte e azar, como é exemplo o euromilhões, são mais uma forma de gastar dinheiro do que de o ganhar, mas qual é exactamente a probabilidade de ganhar o euromilhões?
 
 Para calcularmos a probabilidade de ganhar o euromilhões temos de fazer dois passos, o primeiro é calcular a probabilidade de acertar em 5 das 50 bolas (A). Como a ordem não conta, temos a seguinte fórmula:
 

@@ -3,9 +3,9 @@ layout: default
 title: Poupar dinheiro na compra de carro
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##Opte por um carro usado.
+## Opte por um carro usado.
 
 Toda a gente sabe que comprar carro novo é muito mais dispendioso que comprar usado, por isso, tente comprar um carro com um ano de idade em vez de ir para novo. Desta forma, ainda consegue a garantia da marca.
 
